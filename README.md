@@ -23,6 +23,7 @@ vagrant@deepdream-box:~$ ipython notebook --profile=nbserver
 ```
 
 on Host Machine Web browser
+
 1. Open http://localhost:3000/
 2. Select deepdream
 3. Select dream.ipynb
